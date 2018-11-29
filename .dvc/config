@@ -1,0 +1,4 @@
+['remote "myremote"']
+url = z:\dvc
+[core]
+remote = myremote
