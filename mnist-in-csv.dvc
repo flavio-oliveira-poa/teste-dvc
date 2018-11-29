@@ -1,0 +1,5 @@
+md5: b4a8cd804031dc6ffe302ffe918f06f7
+outs:
+- cache: true
+  md5: bb702100a5ef4ef1035508ad9076a822.dir
+  path: C:\Users\foliveira\Documents\mnist\mnist-in-csv
