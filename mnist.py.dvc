@@ -1,0 +1,5 @@
+md5: e83f4ce8e2f1087852d9b58df2eb1dd2
+outs:
+- cache: true
+  md5: 7a8be1b4689810c26653d07d7844fb07
+  path: C:\Users\foliveira\Documents\mnist\mnist.py
